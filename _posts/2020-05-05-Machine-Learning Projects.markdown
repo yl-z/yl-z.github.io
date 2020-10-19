@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hexameter Scanner"
+title:  "Machine Learning Projects"
 categories: Learning ML
 ---
 

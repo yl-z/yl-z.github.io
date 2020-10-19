@@ -1,0 +1,38 @@
+I"m
+<hr />
+
+<h2 id="learning-ml">Learning ML</h2>
+<p float="left">
+    <img src="/assets/Interpolation.png" alt="handwritten digits gradually turning into other numbers" title="VAE application" width="350" />
+    <img src="/assets/First_two_components.png" alt="Plot showing training set on first two principal components" title="Training Set in Latent Space" width="100" />
+    <img src="/assets/Frankennumber.png" alt="a digit's bottom half being predicted by the model" title="Frankennumber4" width="90" />
+    <img src="/assets/VAE_sampling.png" alt="Digits showing learned distribution and samples taken on each digit" title="Bernoulli samples" width="150" />
+</p>
+
+<p>In this project, completed for STA414 during the winter semester of 2020, I learned how to train a model to classify some digits in the MNIST dataset, and to make predictions, samples, and interpolations from the latent space using the Julia programming language. The beauty of this very clean dataset lured me into a very messy space.</p>
+
+<hr />
+
+<h2 id="learning-to-read">Learning to Read</h2>
+
+<p float="left">
+    <img src="/assets/NFposter.png" alt="visualization of ten lines of latin verse" title="Northrop Frye project - Picture Vergil — Georgics 2.483-492" width="350" />
+    <img src="/assets/NF_closeup_1.png" alt="Fallon's permutations" title="Northrop Frye project - Picture Vergil Close up 1" width="190" />
+    <img src="/assets/NF_closeup_2.png" alt="Vergil's syntax lines" title="Northrop Frye project - Picture Vergil Close up 2" width="160" />
+</p>
+
+<h4 id="picture-vergil--georgics-2483-492">Picture Vergil — <em>Georgics 2.483-492</em></h4>
+
+<p>In this project, I attempted to represent ten lines (2.483-492) from Vergil’s famous farming poem visually, comparing syntactical, diction, and metrical (i.e. sound) qualities between the original and three increasingly modern translations (respectively by John Dryden, Cecil Day Lewis, and Peter Fallon). In this passage, the poet describes an idyllic landscape and laments the difficulty of really occupying the space. The same difficulty can be seen in the challenges that too literal-minded a visualization method results in. Read the original poem <a href="https://la.wikisource.org/wiki/Georgicon/Liber_II">here</a>. Learn more about my project <a href="/assets/NFtext.pdf">here</a>.</p>
+
+<hr />
+
+<h2 id="learning-to-draw">Learning to Draw</h2>
+
+<h1 id="inktober">Inktober</h1>
+
+<p float="left">
+    <img src="/assets/2020-10-8-inktober1.png" alt="ink drawing of a park" title="Inktober 1" width="200" />
+    <img src="/assets/2020-10-10-inktober2.png" alt="ink drawing of a tree" title="Inktober 2" width="180" />
+</p>
+:ET
