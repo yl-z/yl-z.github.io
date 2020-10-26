@@ -46,6 +46,8 @@ In this project, I attempted to represent ten lines (2.483-492) from Vergil's fa
 # Inktober
 
 <p float="left">
+    <img src="/assets/2020-10-25-inktober6.png" alt="ink drawing of park seen from a short distance away"
+    title="2020-10-25" width="360" />
     <img src="/assets/2020-10-24-inktober5.png" alt="ink drawing of crows on a field under city sky"
     title="2020-10-24" width="180" />
     <img src="/assets/2020-10-18-inktober4.png" alt="ink drawing of a cherry tree"
